@@ -6,7 +6,7 @@
 
 ## Lessons Learned
 
-I learned about the unity stencil buffer thet how to create a holes in unity .Additional lots many skills and knowledge i gather listed below.
+I learned about the unity stencil buffer then how to create a holes in unity .Additional lots many skills and knowledge i gather listed below.
 
   - 3d UI elements
   - How to add timer to add GameMechanics
